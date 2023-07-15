@@ -1,3 +1,5 @@
+import './tasks/task_2695_array_wrapper';
+
 /**
  * #graphs
  * 841. Keys and Rooms
